@@ -1,0 +1,27 @@
+.git{
+    width: 200px;
+    display: flex;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto; 
+}
+.profil{
+    width: 200px;
+}
+.item{
+    list-style-type: none;
+}
+body{
+    background-color: antiquewhite;
+}
+.reposlist{
+    height: 25px;
+    text-align: center;
+    border-radius: 15%;
+    border-style: hidden;
+    color: orange
+}
+.dropdown-menu{
+    height: 170px;
+    overflow: scroll;
+}
